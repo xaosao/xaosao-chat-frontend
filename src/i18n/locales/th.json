@@ -1,0 +1,110 @@
+{
+  "chat": {
+    "myChats": "แชทของฉัน",
+    "searchUser": "ค้นหาผู้ใช้",
+    "archived": "เก็บถาวร",
+    "backToChat": "กลับไปที่แชท",
+    "archiveChat": "เก็บแชทถาวร",
+    "unarchiveChat": "ยกเลิกการเก็บถาวร",
+    "deleteChat": "ลบแชท",
+    "startNewChat": "เริ่มแชทใหม่",
+    "startNewChatMessage": "เริ่มแชทใหม่กับคนที่คุณชอบและ",
+    "makeEveryMoment": "ทำให้ทุกช่วงเวลามีค่า",
+    "typeMessage": "พิมพ์ข้อความ",
+    "online": "ออนไลน์",
+    "offline": "ออฟไลน์",
+    "noConversationsFound": "ไม่พบการสนทนา",
+    "noConversationWith": "คุณไม่มีการสนทนากับ",
+    "findOnContactList": "ค้นหาในรายชื่อติดต่อ",
+    "loading": "กำลังโหลด....",
+    "image": "รูปภาพ",
+    "gif": "Gif",
+    "video": "วิดีโอ",
+    "audio": "เสียง",
+    "location": "ตำแหน่ง",
+    "contact": "ผู้ติดต่อ",
+    "poll": "โพล",
+    "block": "บล็อค",
+    "unblock": "ยกเลิกบล็อค",
+    "conversationArchived": "เก็บการสนทนาถาวรแล้ว",
+    "conversationDeleted": "ลบการสนทนาแล้ว!"
+  },
+  "contacts": {
+    "contactLists": "รายชื่อผู้ติดต่อ",
+    "contactDetails": "รายละเอียดผู้ติดต่อ",
+    "nonChangeable": "ไม่สามารถเปลี่ยนแปลงได้",
+    "next": "ถัดไป",
+    "noContactsFound": "ไม่พบผู้ติดต่อ",
+    "syncMessage": "ติดตั้งแอป Whoxa บนมือถือก่อนเพื่อซิงค์บัญชีของคุณและแสดงรายชื่อติดต่อของคุณที่นี่"
+  },
+  "calls": {
+    "callHistory": "ประวัติการโทร",
+    "videoCall": "วิดีโอคอล",
+    "audioCall": "โทรเสียง",
+    "callDeclined": "สายถูกปฏิเสธ",
+    "acceptCall": "รับสายเพื่อเริ่มการสนทนา",
+    "allCalls": "สายทั้งหมด",
+    "missedCall": "สายที่ไม่ได้รับ",
+    "noCallsFound": "ไม่พบสาย",
+    "noMissedCallsFound": "ไม่พบสายที่ไม่ได้รับ"
+  },
+  "settings": {
+    "settings": "ตั้งค่า",
+    "profile": "โปรไฟล์",
+    "starredMessages": "ข้อความที่ติดดาว",
+    "blockContacts": "บล็อคผู้ติดต่อ",
+    "shareLink": "แชร์ลิงก์",
+    "language": "ภาษา",
+    "blockedAccount": "บัญชีที่ถูกบล็อค",
+    "noBlockedAccount": "ไม่มีบัญชีที่ถูกบล็อค",
+    "about": "เกี่ยวกับ",
+    "currentlySetTo": "ตั้งค่าปัจจุบันเป็น",
+    "selectYourAbout": "เลือกเกี่ยวกับของคุณ"
+  },
+  "groups": {
+    "publicGroups": "กลุ่มสาธารณะ",
+    "addGroupMembers": "เพิ่มสมาชิกกลุ่ม",
+    "members": "สมาชิก",
+    "outOf": "จาก"
+  },
+  "profile": {
+    "viewProfile": "ดูโปรไฟล์",
+    "contactInfo": "ข้อมูลผู้ติดต่อ",
+    "mediaLinksAndDocs": "สื่อ ลิงก์ และเอกสาร",
+    "clearChat": "ล้างแชท"
+  },
+  "media": {
+    "noMediaFound": "ไม่พบสื่อ!",
+    "noLinksFound": "ไม่พบลิงก์",
+    "document": "เอกสาร"
+  },
+  "location": {
+    "noNearbyPlaces": "ไม่พบสถานที่ใกล้เคียง"
+  },
+  "poll": {
+    "createPoll": "สร้างโพล",
+    "addTitle": "เพิ่มหัวข้อ",
+    "enterPollQuestion": "ใส่คำถามโพล",
+    "addOptions": "เพิ่มตัวเลือก",
+    "option": "ตัวเลือก",
+    "pollVotes": "โหวตโพล",
+    "title": "หัวข้อ",
+    "options": "ตัวเลือก"
+  },
+  "common": {
+    "cancel": "ยกเลิก",
+    "submit": "ส่ง",
+    "close": "ปิด",
+    "logout": "ออกจากระบบ",
+    "logoutConfirm": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+    "logoutDeviceConfirm": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบบัญชีนี้จากอุปกรณ์นี้",
+    "deleteForMe": "ลบสำหรับฉัน"
+  },
+  "bottom_bar": {
+    "discover": "ค้นพบ",
+    "match": "จับคู่",
+    "chats": "แชท",
+    "contacts": "รายชื่อติดต่อ",
+    "setting": "การตั้งค่า"
+  }
+}

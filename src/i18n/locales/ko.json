@@ -1,0 +1,110 @@
+{
+  "chat": {
+    "myChats": "내 채팅",
+    "searchUser": "사용자 검색",
+    "archived": "보관됨",
+    "backToChat": "채팅으로 돌아가기",
+    "archiveChat": "채팅 보관",
+    "unarchiveChat": "보관 취소",
+    "deleteChat": "채팅 삭제",
+    "startNewChat": "새 채팅 시작",
+    "startNewChatMessage": "좋아하는 사람과 새로운 채팅을 시작하고",
+    "makeEveryMoment": "모든 순간을 소중하게 만드세요.",
+    "typeMessage": "메시지 입력",
+    "online": "온라인",
+    "offline": "오프라인",
+    "noConversationsFound": "대화를 찾을 수 없습니다",
+    "noConversationWith": "이 사용자와 대화가 없습니다",
+    "findOnContactList": "연락처 목록에서 찾기",
+    "loading": "로딩 중....",
+    "image": "이미지",
+    "gif": "Gif",
+    "video": "비디오",
+    "audio": "오디오",
+    "location": "위치",
+    "contact": "연락처",
+    "poll": "투표",
+    "block": "차단",
+    "unblock": "차단 해제",
+    "conversationArchived": "대화가 보관되었습니다",
+    "conversationDeleted": "대화가 삭제되었습니다!"
+  },
+  "contacts": {
+    "contactLists": "연락처 목록",
+    "contactDetails": "연락처 세부정보",
+    "nonChangeable": "변경 불가",
+    "next": "다음",
+    "noContactsFound": "연락처를 찾을 수 없습니다",
+    "syncMessage": "먼저 Whoxa 모바일 앱을 설치하여 계정을 동기화하고 여기에 연락처를 표시하세요."
+  },
+  "calls": {
+    "callHistory": "통화 기록",
+    "videoCall": "영상 통화",
+    "audioCall": "음성 통화",
+    "callDeclined": "통화가 거절되었습니다",
+    "acceptCall": "통화를 수락하여 대화를 시작하세요",
+    "allCalls": "모든 통화",
+    "missedCall": "부재중 전화",
+    "noCallsFound": "통화 기록 없음",
+    "noMissedCallsFound": "부재중 전화 없음"
+  },
+  "settings": {
+    "settings": "설정",
+    "profile": "프로필",
+    "starredMessages": "별표 표시된 메시지",
+    "blockContacts": "차단된 연락처",
+    "shareLink": "링크 공유",
+    "language": "언어",
+    "blockedAccount": "차단된 계정",
+    "noBlockedAccount": "차단된 계정 없음",
+    "about": "소개",
+    "currentlySetTo": "현재 설정",
+    "selectYourAbout": "소개 선택"
+  },
+  "groups": {
+    "publicGroups": "공개 그룹",
+    "addGroupMembers": "그룹 구성원 추가",
+    "members": "구성원",
+    "outOf": "중"
+  },
+  "profile": {
+    "viewProfile": "프로필 보기",
+    "contactInfo": "연락처 정보",
+    "mediaLinksAndDocs": "미디어, 링크 및 문서",
+    "clearChat": "채팅 지우기"
+  },
+  "media": {
+    "noMediaFound": "미디어를 찾을 수 없습니다!",
+    "noLinksFound": "링크를 찾을 수 없습니다",
+    "document": "문서"
+  },
+  "location": {
+    "noNearbyPlaces": "근처 장소를 찾을 수 없습니다"
+  },
+  "poll": {
+    "createPoll": "투표 만들기",
+    "addTitle": "제목 추가",
+    "enterPollQuestion": "투표 질문 입력",
+    "addOptions": "옵션 추가",
+    "option": "옵션",
+    "pollVotes": "투표 결과",
+    "title": "제목",
+    "options": "옵션"
+  },
+  "common": {
+    "cancel": "취소",
+    "submit": "제출",
+    "close": "닫기",
+    "logout": "로그아웃",
+    "logoutConfirm": "정말 로그아웃 하시겠습니까?",
+    "logoutDeviceConfirm": "이 기기에서 이 계정을 로그아웃 하시겠습니까",
+    "deleteForMe": "나에게만 삭제"
+  },
+  "bottom_bar": {
+    "discover": "발견",
+    "match": "매치",
+    "chats": "채팅",
+    "contacts": "연락처",
+    "setting": "설정"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "chat": {
+    "myChats": "Tin nhắn của tôi",
+    "searchUser": "Tìm kiếm người dùng",
+    "archived": "Đã lưu trữ",
+    "backToChat": "Quay lại tin nhắn",
+    "archiveChat": "Lưu trữ cuộc trò chuyện",
+    "unarchiveChat": "Bỏ lưu trữ",
+    "deleteChat": "Xóa cuộc trò chuyện",
+    "startNewChat": "Bắt đầu cuộc trò chuyện mới",
+    "startNewChatMessage": "Bắt đầu cuộc trò chuyện mới với người bạn yêu thích và",
+    "makeEveryMoment": "làm cho mỗi khoảnh khắc đều có ý nghĩa.",
+    "typeMessage": "Nhập tin nhắn",
+    "online": "Trực tuyến",
+    "offline": "Ngoại tuyến",
+    "noConversationsFound": "Không tìm thấy cuộc trò chuyện",
+    "noConversationWith": "Bạn không có cuộc trò chuyện nào với",
+    "findOnContactList": "Tìm trong danh sách liên hệ",
+    "loading": "Đang tải....",
+    "image": "Hình ảnh",
+    "gif": "Gif",
+    "video": "Video",
+    "audio": "Âm thanh",
+    "location": "Vị trí",
+    "contact": "Liên hệ",
+    "poll": "Cuộc thăm dò",
+    "block": "Chặn",
+    "unblock": "Bỏ chặn",
+    "conversationArchived": "Đã lưu trữ cuộc trò chuyện",
+    "conversationDeleted": "Đã xóa cuộc trò chuyện!"
+  },
+  "contacts": {
+    "contactLists": "Danh sách liên hệ",
+    "contactDetails": "Chi tiết liên hệ",
+    "nonChangeable": "Không thể thay đổi",
+    "next": "Tiếp theo",
+    "noContactsFound": "Không tìm thấy liên hệ",
+    "syncMessage": "Cài đặt ứng dụng di động Whoxa trước để đồng bộ tài khoản của bạn và hiển thị danh bạ của bạn tại đây."
+  },
+  "calls": {
+    "callHistory": "Lịch sử cuộc gọi",
+    "videoCall": "Cuộc gọi video",
+    "audioCall": "Cuộc gọi thoại",
+    "callDeclined": "Cuộc gọi bị từ chối",
+    "acceptCall": "Chấp nhận cuộc gọi để bắt đầu thảo luận",
+    "allCalls": "Tất cả cuộc gọi",
+    "missedCall": "Cuộc gọi nhỡ",
+    "noCallsFound": "Không tìm thấy cuộc gọi",
+    "noMissedCallsFound": "Không tìm thấy cuộc gọi nhỡ"
+  },
+  "settings": {
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ",
+    "starredMessages": "Tin nhắn đã gắn sao",
+    "blockContacts": "Danh bạ bị chặn",
+    "shareLink": "Chia sẻ liên kết",
+    "language": "Ngôn ngữ",
+    "blockedAccount": "Tài khoản bị chặn",
+    "noBlockedAccount": "Không có tài khoản bị chặn",
+    "about": "Giới thiệu",
+    "currentlySetTo": "Hiện đang được đặt là",
+    "selectYourAbout": "Chọn giới thiệu của bạn"
+  },
+  "groups": {
+    "publicGroups": "Nhóm công khai",
+    "addGroupMembers": "Thêm thành viên nhóm",
+    "members": "Thành viên",
+    "outOf": "trong số"
+  },
+  "profile": {
+    "viewProfile": "Xem hồ sơ",
+    "contactInfo": "Thông tin liên hệ",
+    "mediaLinksAndDocs": "Phương tiện, liên kết và tài liệu",
+    "clearChat": "Xóa cuộc trò chuyện"
+  },
+  "media": {
+    "noMediaFound": "Không tìm thấy phương tiện!",
+    "noLinksFound": "Không tìm thấy liên kết",
+    "document": "Tài liệu"
+  },
+  "location": {
+    "noNearbyPlaces": "Không tìm thấy địa điểm gần đây"
+  },
+  "poll": {
+    "createPoll": "Tạo cuộc thăm dò",
+    "addTitle": "Thêm tiêu đề",
+    "enterPollQuestion": "Nhập câu hỏi thăm dò",
+    "addOptions": "Thêm tùy chọn",
+    "option": "Tùy chọn",
+    "pollVotes": "Phiếu bầu",
+    "title": "Tiêu đề",
+    "options": "Tùy chọn"
+  },
+  "common": {
+    "cancel": "Hủy",
+    "submit": "Gửi",
+    "close": "Đóng",
+    "logout": "Đăng xuất",
+    "logoutConfirm": "Bạn có chắc chắn muốn đăng xuất không?",
+    "logoutDeviceConfirm": "Bạn có chắc chắn muốn đăng xuất tài khoản này khỏi thiết bị này không",
+    "deleteForMe": "Xóa cho tôi"
+  },
+  "bottom_bar": {
+    "discover": "Khám phá",
+    "match": "Ghép đôi",
+    "chats": "Trò chuyện",
+    "contacts": "Danh bạ",
+    "setting": "Cài đặt"
+  }
+}

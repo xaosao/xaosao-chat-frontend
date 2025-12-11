@@ -1,0 +1,110 @@
+{
+  "chat": {
+    "myChats": "My Chats",
+    "searchUser": "Search User",
+    "archived": "Archived",
+    "backToChat": "Back to chat",
+    "archiveChat": "Archive Chat",
+    "unarchiveChat": "Unarchive Chat",
+    "deleteChat": "Delete Chat",
+    "startNewChat": "Start New Chat",
+    "startNewChatMessage": "Start a new chat with your favorite one and",
+    "makeEveryMoment": "make every moment count.",
+    "typeMessage": "Type Message",
+    "online": "Online",
+    "offline": "Offline",
+    "noConversationsFound": "No Conversations Found",
+    "noConversationWith": "You don't have any conversation with",
+    "findOnContactList": "Find on contact list",
+    "loading": "Loading....",
+    "image": "Image",
+    "gif": "Gif",
+    "video": "Video",
+    "audio": "Audio",
+    "location": "Location",
+    "contact": "Contact",
+    "poll": "Poll",
+    "block": "Block",
+    "unblock": "Unblock",
+    "conversationArchived": "Conversation Archived",
+    "conversationDeleted": "Conversation Deleted!"
+  },
+  "contacts": {
+    "contactLists": "Contact Lists",
+    "contactDetails": "Contact Details",
+    "nonChangeable": "Non Changeable",
+    "next": "Next",
+    "noContactsFound": "No Contacts Found",
+    "syncMessage": "Install the Whoxa mobile app first to sync your account and display your contacts here."
+  },
+  "calls": {
+    "callHistory": "Call History",
+    "videoCall": "Video Call",
+    "audioCall": "Audio Call",
+    "callDeclined": "Call is Declined",
+    "acceptCall": "Accept the call to get started discussion",
+    "allCalls": "All Calls",
+    "missedCall": "Missed Call",
+    "noCallsFound": "No Calls Found",
+    "noMissedCallsFound": "No Missed Calls found"
+  },
+  "settings": {
+    "settings": "Settings",
+    "profile": "Profile",
+    "starredMessages": "Starred Messages",
+    "blockContacts": "Block Contacts",
+    "shareLink": "Share a link",
+    "language": "Language",
+    "blockedAccount": "Blocked account",
+    "noBlockedAccount": "No blocked account",
+    "about": "About",
+    "currentlySetTo": "Currently set to",
+    "selectYourAbout": "Select your about"
+  },
+  "groups": {
+    "publicGroups": "Public Groups",
+    "addGroupMembers": "Add Group Members",
+    "members": "Members",
+    "outOf": "Out Of"
+  },
+  "profile": {
+    "viewProfile": "View Profile",
+    "contactInfo": "Contact Info",
+    "mediaLinksAndDocs": "Media, Links, and docs",
+    "clearChat": "Clear Chat"
+  },
+  "media": {
+    "noMediaFound": "No Media Found!",
+    "noLinksFound": "No Links Found",
+    "document": "Document"
+  },
+  "location": {
+    "noNearbyPlaces": "No nearby places found"
+  },
+  "poll": {
+    "createPoll": "Create Poll",
+    "addTitle": "Add Title",
+    "enterPollQuestion": "Enter poll question",
+    "addOptions": "Add Options",
+    "option": "Option",
+    "pollVotes": "Poll Votes",
+    "title": "Title",
+    "options": "Options"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "close": "Close",
+    "logout": "Logout",
+    "logoutConfirm": "Are you sure you want to logout?",
+    "logoutDeviceConfirm": "Are you sure you want to logout this account from this Device",
+    "deleteForMe": "Delete for me"
+  },
+  "bottom_bar": {
+    "discover": "Discover",
+    "match": "Match",
+    "chats": "Chats",
+    "contacts": "Contacts",
+    "setting": "Setting"
+  }
+}

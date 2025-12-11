@@ -1,0 +1,110 @@
+{
+  "chat": {
+    "myChats": "ການສົນທະນາຂອງຂ້ອຍ",
+    "searchUser": "ຄົ້ນຫາຜູ້ໃຊ້",
+    "archived": "ເກັບໄວ້ແລ້ວ",
+    "backToChat": "ກັບຄືນໄປສົນທະນາ",
+    "archiveChat": "ເກັບການສົນທະນາ",
+    "unarchiveChat": "ຍົກເລີກການເກັບ",
+    "deleteChat": "ລຶບການສົນທະນາ",
+    "startNewChat": "ເລີ່ມການສົນທະນາໃໝ່",
+    "startNewChatMessage": "ເລີ່ມການສົນທະນາໃໝ່ກັບຄົນທີ່ທ່ານມັກແລະ",
+    "makeEveryMoment": "ເຮັດໃຫ້ທຸກໆເວລາມີຄ່າ.",
+    "typeMessage": "ພິມຂໍ້ຄວາມ",
+    "online": "ອອນລາຍ",
+    "offline": "ອອບລາຍ",
+    "noConversationsFound": "ບໍ່ພົບການສົນທະນາ",
+    "noConversationWith": "ທ່ານບໍ່ມີການສົນທະນາກັບ",
+    "findOnContactList": "ຊອກຫາໃນລາຍຊື່ຜູ້ຕິດຕໍ່",
+    "loading": "ກຳລັງໂຫລດ....",
+    "image": "ຮູບພາບ",
+    "gif": "Gif",
+    "video": "ວິດີໂອ",
+    "audio": "ສຽງ",
+    "location": "ສະຖານທີ່",
+    "contact": "ຜູ້ຕິດຕໍ່",
+    "poll": "ໂພນ",
+    "block": "ບລ໋ອກ",
+    "unblock": "ຍົກເລີກບລ໋ອກ",
+    "conversationArchived": "ເກັບການສົນທະນາແລ້ວ",
+    "conversationDeleted": "ລຶບການສົນທະນາແລ້ວ!"
+  },
+  "contacts": {
+    "contactLists": "ລາຍຊື່ຜູ້ຕິດຕໍ່",
+    "contactDetails": "ລາຍລະອຽດການຕິດຕໍ່",
+    "nonChangeable": "ບໍ່ສາມາດປ່ຽນແປງໄດ້",
+    "next": "ຕໍ່ໄປ",
+    "noContactsFound": "ບໍ່ພົບຜູ້ຕິດຕໍ່",
+    "syncMessage": "ຕິດຕັ້ງແອັບມືຖື Whoxa ກ່ອນເພື່ອ sync ບັນຊີຂອງທ່ານ ແລະ ສະແດງລາຍຊື່ຜູ້ຕິດຕໍ່ຂອງທ່ານຢູ່ນີ້."
+  },
+  "calls": {
+    "callHistory": "ປະຫວັດການໂທ",
+    "videoCall": "ວິດີໂອຄອນ",
+    "audioCall": "ໂທສຽງ",
+    "callDeclined": "ການໂທຖືກປະຕິເສດ",
+    "acceptCall": "ຮັບສາຍເພື່ອເລີ່ມການສົນທະນາ",
+    "allCalls": "ການໂທທັງໝົດ",
+    "missedCall": "ສາຍທີ່ພາດ",
+    "noCallsFound": "ບໍ່ພົບການໂທ",
+    "noMissedCallsFound": "ບໍ່ພົບສາຍທີ່ພາດ"
+  },
+  "settings": {
+    "settings": "ຕັ້ງຄ່າ",
+    "profile": "ໂປຣໄຟລ໌",
+    "starredMessages": "ຂໍ້ຄວາມທີ່ຕິດດາວ",
+    "blockContacts": "ບລ໋ອກຜູ້ຕິດຕໍ່",
+    "shareLink": "ແບ່ງປັນລິ້ງ",
+    "language": "ພາສາ",
+    "blockedAccount": "ບັນຊີທີ່ຖືກບລ໋ອກ",
+    "noBlockedAccount": "ບໍ່ມີບັນຊີທີ່ຖືກບລ໋ອກ",
+    "about": "ກ່ຽວກັບ",
+    "currentlySetTo": "ຕັ້ງຄ່າປັດຈຸບັນເປັນ",
+    "selectYourAbout": "ເລືອກກ່ຽວກັບຂອງທ່ານ"
+  },
+  "groups": {
+    "publicGroups": "ກຸ່ມສາທາລະນະ",
+    "addGroupMembers": "ເພີ່ມສະມາຊິກກຸ່ມ",
+    "members": "ສະມາຊິກ",
+    "outOf": "ຈາກ"
+  },
+  "profile": {
+    "viewProfile": "ເບິ່ງໂປຣໄຟລ໌",
+    "contactInfo": "ຂໍ້ມູນການຕິດຕໍ່",
+    "mediaLinksAndDocs": "ສື່, ລິ້ງ, ແລະເອກະສານ",
+    "clearChat": "ລ້າງການສົນທະນາ"
+  },
+  "media": {
+    "noMediaFound": "ບໍ່ພົບສື່!",
+    "noLinksFound": "ບໍ່ພົບລິ້ງ",
+    "document": "ເອກະສານ"
+  },
+  "location": {
+    "noNearbyPlaces": "ບໍ່ພົບສະຖານທີ່ໃກ້ຄຽງ"
+  },
+  "poll": {
+    "createPoll": "ສ້າງໂພນ",
+    "addTitle": "ເພີ່ມຫົວຂໍ້",
+    "enterPollQuestion": "ໃສ່ຄຳຖາມໂພນ",
+    "addOptions": "ເພີ່ມຕົວເລືອກ",
+    "option": "ຕົວເລືອກ",
+    "pollVotes": "ໂຫວດໂພນ",
+    "title": "ຫົວຂໍ້",
+    "options": "ຕົວເລືອກ"
+  },
+  "common": {
+    "cancel": "ຍົກເລີກ",
+    "submit": "ສົ່ງ",
+    "close": "ປິດ",
+    "logout": "ອອກຈາກລະບົບ",
+    "logoutConfirm": "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການອອກຈາກລະບົບ?",
+    "logoutDeviceConfirm": "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການອອກຈາກລະບົບບັນຊີນີ້ຈາກອຸປະກອນນີ້",
+    "deleteForMe": "ລຶບສຳລັບຂ້ອຍ"
+  },
+  "bottom_bar": {
+    "discover": "ໜ້າຫຼັກ",
+    "match": "ຄູ່ເໝາະສົມ",
+    "chats": "ແຊັດ",
+    "contacts": "ລາຍຊື່ຕິດຕໍ່",
+    "setting": "ການຕັ້ງຄ່າ"
+  }
+}
