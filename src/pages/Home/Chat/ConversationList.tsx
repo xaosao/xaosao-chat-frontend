@@ -70,12 +70,12 @@ const getValidImageUrl = (url: string): string | null => {
     return null;
   }
 
-  // Only accept URLs that are proper CDN URLs or have image extensions
-  if (!cleanUrl.includes("b-cdn.net") && !cleanUrl.match(/\.(jpg|jpeg|png|gif|webp)$/i)) {
-    return null;
+  // Accept any URL that starts with http/https (valid external URL)
+  if (cleanUrl.startsWith("http://") || cleanUrl.startsWith("https://")) {
+    return cleanUrl;
   }
 
-  return cleanUrl;
+  return null;
 };
 
 // Generate consistent color based on username
