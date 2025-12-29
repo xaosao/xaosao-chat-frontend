@@ -71,7 +71,7 @@ export default function LoginWithoutOTP() {
                      <TextField
                         id="standard-basic"
                         variant="standard"
-                        placeholder="2078856194"
+                        placeholder="2012345678"
                         fullWidth
                         required
                         value={formData.phone_number}
